@@ -36,12 +36,13 @@ body::before {
 
 header {
    color: #FFFFFF;
-
    text-align: center;
-   height: 33.2rem;
    display: flex;
+   align-items: center;
    flex-direction: column;
    justify-content: flex-end;
+   
+   height: 33.2rem;
    padding-bottom: 3.2rem;
 }
 
